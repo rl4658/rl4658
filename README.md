@@ -21,9 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rl4658&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=rl4658&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rl4658/rl4658/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rl4658/rl4658/output/github-snake.svg" />
