@@ -2,13 +2,16 @@
   <img src="https://raw.githubusercontent.com/rl4658/rl4658/61fd195b14522613e701c20af71061af6f85beac/intro.gif" alt="Intro GIF" />
 </p>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🚀 Software Engineer Intern at AltissAdvance Tech, building AI-powered transcription and analytics dashboards
-- 🎤 Creator of a Django web app for real-time voice & sentiment analysis (Vosk + RoBERTa)
-- 🤖 Researching generative-AI tools for software testing and interactive AI music front-ends
-- 🎓 𝙱𝚊𝚜𝚑𝚎𝚕𝚘𝚛'𝚜 in Software Engineering 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Western Ontario, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸5
-- 🌱 Learning advanced HCI, 3D graphics algorithms, and containerized AI deployments on GCP
-- ⚡ Fun fact: 2nd place at Western Engineering Competition for a Pygame game & 1st-place hackathon winner with an AI playlist tool
+## :book: About Me
+- 🔭 **Software Engineering Intern, AltissAdvance Tech** — Developing AI-powered transcription pipelines and interactive analytics dashboards.
+- 🎤 **Creator**, Django Web App for Real-Time Voice & Sentiment Analysis — Leveraging Vosk for speech recognition and RoBERTa for sentiment classification.
+- 🤖 **Generative AI Researcher** — Exploring prompt-engineering techniques for software testing and designing immersive AI-driven music front-end experiences.
+- 🎓 **B.E.Sc. in Software Engineering**, University of Western Ontario, Class of 2025  
+  - Dean’s Honour List (2022–23); GPA: 3.7/4.0
+- 🌱 **Currently Learning** Advanced HCI methodologies, 3D graphics algorithms, and containerized AI deployments on Google Cloud Platform.
+- 🏆 **Awards & Achievements**  
+  - 2nd Place, Western Engineering Competition (Pygame-based asteroid game)  
+  - 1st Place, Western Cyber Society Hackathon (AI-driven playlist personalization tool)
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/raymond.li.7739814/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymond_liii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruifeng-raymond-li/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruifeng2002@gmail.com)
