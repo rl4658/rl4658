@@ -3,15 +3,29 @@
 </p>
 
 ## :book: About Me
-- 🔭 **Software Engineering Intern, AltissAdvance Tech** — Developing AI-powered transcription pipelines and interactive analytics dashboards.
-- 🎤 **Creator**, Django Web App for Real-Time Voice & Sentiment Analysis — Leveraging Vosk for speech recognition and RoBERTa for sentiment classification.
-- 🤖 **Generative AI Researcher** — Exploring prompt-engineering techniques for software testing and designing immersive AI-driven music front-end experiences.
-- 🎓 **B.E.Sc. in Software Engineering**, University of Western Ontario, Class of 2025  
-  - Dean’s Honour List (2022–23); GPA: 3.7/4.0
-- 🌱 **Currently Learning** Advanced HCI methodologies, 3D graphics algorithms, and containerized AI deployments on Google Cloud Platform.
-- 🏆 **Awards & Achievements**  
-  - 2nd Place, Western Engineering Competition (Pygame-based asteroid game)  
-  - 1st Place, Western Cyber Society Hackathon (AI-driven playlist personalization tool)
+**Coding Enthusiast & Software Engineering Student**
+
+I am a passionate software engineering student with a strong focus on building intelligent systems and interactive applications. My experience includes developing AI-powered transcription pipelines and creating interactive analytics dashboards. I enjoy bridging the gap between complex backend logic and user-centric design.
+
+### Education
+
+- **B.E.Sc. in Software Engineering** | University of Western Ontario (Class of 2025)
+  - Dean’s Honour List (2022–23)
+  - GPA: 3.7/4.0
+
+### Projects & Research
+
+- **Real-Time Voice & Sentiment Analysis:** Designed and built a Django web application that leverages Vosk for speech recognition and RoBERTa for immediate sentiment classification.
+- **Generative AI Exploration:** Actively researching prompt-engineering techniques to enhance software testing workflows and designing immersive front-end experiences for AI-driven music generation.
+
+### Technical Growth
+
+I am currently expanding my expertise in advanced Human-Computer Interaction (HCI) methodologies, exploring 3D graphics algorithms, and mastering containerized AI deployments on the Google Cloud Platform.
+
+### Honors
+
+- **1st Place, Western Cyber Society Hackathon:** Developed an AI-driven tool for playlist personalization.
+- **2nd Place, Western Engineering Competition:** Created a Pygame-based asteroid survival game.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/raymond.li.7739814/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymond_liii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruifeng-raymond-li/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruifeng2002@gmail.com)
