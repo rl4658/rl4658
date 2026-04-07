@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/rl4658/rl4658/61fd195b14522613e701c20af71061af6f85beac/intro.gif" alt="Intro GIF" width="100%" />
-
-  <h1>Hi there, I'm Raymond! 👋</h1>
-
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Coding+Enthusiast;Software+Engineering+Student;AI+%26+Full-Stack+Developer" alt="Typing SVG" />
   </a>
